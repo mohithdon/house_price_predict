@@ -18,7 +18,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/⭐_My_Repository-181717?style=for-the-badge&logo=github)](https://github.com/mohithdon/house_price_predict)
-
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-1A56DB?style=for-the-badge)](https://mohithdon.github.io/house_price_predict/)
 <br/>
 
 > *"The best investment on Earth is earth." — Louis Glickman*
